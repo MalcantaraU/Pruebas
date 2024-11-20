@@ -17,6 +17,8 @@ public class NewJPanel extends javax.swing.JPanel {
      */
     public NewJPanel() {
         initComponents();
+        
+        System.out.println("HolaCaracola");
     }
 
     /**
